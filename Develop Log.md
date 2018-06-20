@@ -49,3 +49,19 @@ __---->定义开关4 lili go research(告知lili后lili前往调查)__
   * 角色lili在lili的房间里
   * __隐藏骂人彩蛋__
   * lili与Cyanku在lili房间里告知lili越狱情况，lili前往调查
+
+## 6月20日
+__---->定义开关5 xiaowangfenxi(小王开始分析一根头发)__
+### 增加
+  * 地图：Cyanku房间内增加一台电脑
+  * 人物：在Cyanku房间内玩游戏的Yuzai
+  * Yuzai的初始对话
+  * 地图：在Cyanku房间内增加Yuzai的100LKB私房钱
+  * 地图：机房内增加一个直接GG的开关
+  * 地图：在牢房内增加物品：一根头发
+  * 人物：Xiaowang
+  * Xiaowang可以分析一根头发
+
+### 修改
+  * 基本系统属性(关闭战斗)
+  * 货币单位LKB 烂口币
